@@ -37,6 +37,3 @@ Contributions are welcome! If you’d like to improve the game or add new featur
 
 #### Credits
 I created this project while following freeCodeCamp lessons. Thanks to the freeCodeCamp community for the inspiration and learning resources!
-
-#### License
-This project is licensed under the MIT License. See the LICENSE file for details.
