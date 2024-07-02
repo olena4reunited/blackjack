@@ -1,7 +1,7 @@
-#### Blackjack Card Game
+## Blackjack Card Game
 ### Blackjack
 
-## Description
+#### Description
 This project is a Python implementation of the classic card game Blackjack. It allows players to play against the computer dealer, following standard Blackjack rules.
 
 ### Table of Contents
@@ -10,7 +10,7 @@ This project is a Python implementation of the classic card game Blackjack. It a
 3. Contributing
 4. License
 
-## Installation
+#### Installation
 1. Clone this repository:
 ```git clone https://github.com/olena4reunited/blackjack.git```
 
@@ -20,13 +20,13 @@ This project is a Python implementation of the classic card game Blackjack. It a
 3. Run the game:
 ```python main.py```
 
-## Usage
+#### Usage
 [-]Start the game by running main.py.
 [-]Follow the prompts to place bets, receive cards, and make decisions (hit, stand, etc.).
 [-]The game will display the player’s hand, the dealer’s visible card, and the current score.
 [-]Enjoy the thrill of Blackjack!
 
-## Contributing
+#### Contributing
 Contributions are welcome! If you’d like to improve the game or add new features:
 
 1. Fork this repository.
@@ -35,8 +35,8 @@ Contributions are welcome! If you’d like to improve the game or add new featur
 4. Push to the branch: git push origin feature-name
 5. Create a pull request.
 
-## Credits
+#### Credits
 I created this project while following freeCodeCamp lessons. Thanks to the freeCodeCamp community for the inspiration and learning resources!
 
-## License
+#### License
 This project is licensed under the MIT License. See the LICENSE file for details.
